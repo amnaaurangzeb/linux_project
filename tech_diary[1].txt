@@ -1,0 +1,31 @@
+==================================================
+           MY LINUX TECH DIARY (Bootcamp)
+==================================================
+
+Name: Amna Aurangzeb
+Roll No: SP25-BCS-014
+
+--- Favorite Commands ---
+1) ls    - List files and directories in the current folder.
+2) pwd   - Print the current (present) working directory path.
+3) cat   - Read and display file contents.
+4) nano  - Open a simple terminal editor to create/edit files.
+5) zip   - Compress files into a .zip archive.
+
+--- Logbook (example) ---
+$ ls
+$ mkdir project
+$ cd project
+$ touch file.txt
+$ echo "Hello Linux" >> file.txt
+
+ASCII Art:
+   __        _       _                _        
+  / /  ___  | | ___ | |__   __ _  ___| | _____ 
+ / /  / _ \ | |/ _ \| '_ \ / _` |/ __| |/ / __|
+/ /__| (_) || | (_) | | | | (_| | (__|   <\__ \
+\____/\___(_)_|\___/|_| |_|\__,_|\___|_|\_\___/
+
+Quote: "Keep learning, keep growing!"
+
+==================================================

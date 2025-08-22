@@ -1,0 +1,6 @@
+--- Favorite Linux Commands ---
+1) ls    - List files and directories in the current folder.
+2) pwd   - Print the current (present) working directory path.
+3) cat   - Read and display file contents.
+4) nano  - Open a simple terminal editor to create/edit files.
+5) zip   - Compress files into a .zip archive.

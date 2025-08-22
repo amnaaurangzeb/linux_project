@@ -1,0 +1,6 @@
+# Sample of last 5 shell commands (as if captured using: history | tail -n 5)
+$ ls
+$ mkdir project
+$ cd project
+$ touch file.txt
+$ echo "Hello Linux" >> file.txt
